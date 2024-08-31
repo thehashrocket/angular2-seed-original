@@ -23,14 +23,14 @@
     "to-string-loader": "^1.1.4",
     "typescript": "~1.8.9",
     "typings": "~1.0.3",
-    "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0",
+    "webpack": "^5.94.0",
+    "webpack-dev-server": "^5.0.4",
     "webpack-merge": "^0.8.4"
   },
   "dependencies": {
     "@angular/common": "2.0.0-rc.5",
     "@angular/compiler": "2.0.0-rc.5",
-    "@angular/core": "2.0.0-rc.5",
+    "@angular/core": "10.2.5",
     "@angular/http": "2.0.0-rc.5",
     "@angular/compiler-cli": "0.5.0",
     "@angular/platform-server": "2.0.0-rc.5",
